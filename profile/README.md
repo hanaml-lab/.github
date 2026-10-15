@@ -1,8 +1,8 @@
 # hanaML
 
-hanaML is an independent AI lab in Los Angeles. We study what it takes to trust agents and small models with long,
-consequential work, publish each paper with its code, and build on the results in our own products and in applied
-work for clients. More at [hanaml.com](https://hanaml.com).
+hanaML is an independent AI research lab in Los Angeles. We study what it takes to trust agents and small models with
+long, consequential work, publish each paper with its code, and build on the results in our own products and in
+applied research with our clients. More at [hanaml.com](https://hanaml.com).
 
 **Research areas:** rules and approvals for what agents may do; testing agents on long jobs; retrieval and grounding;
 memory that people can read; training and serving models; small models on the device. Each is described, with its
@@ -72,5 +72,5 @@ page on [hanaml.com/research](https://hanaml.com/research) gives its BibTeX, in 
 
 Issues and pull requests are welcome on every repo; each has a `CONTRIBUTING.md`. Please report security issues
 privately, as our [security policy](https://github.com/hanaml-lab/.github/blob/main/SECURITY.md) describes. For
-research collaboration, consulting or a pilot, write to [info@hanaml.com](mailto:info@hanaml.com) or see
-[hanaml.com/contact](https://hanaml.com/contact).
+research collaboration, applied research with your company or a pilot, write to
+[info@hanaml.com](mailto:info@hanaml.com) or see [hanaml.com/contact](https://hanaml.com/contact).
